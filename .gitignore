@@ -1,0 +1,23 @@
+### Project Specific ###
+
+### Symfony2.gitignore ###
+
+# Bootstrap
+app/bootstrap*
+
+# Symfony directories
+vendor/*
+*/logs/*
+*/cache/*
+web/uploads/*
+web/bundles/*
+
+# Configuration files
+app/config/parameters.ini
+app/config/parameters.yml
+
+### IDE ###
+
+# IDE Ignores should be managed by the GIT Global ignores
+# Install the files you need from 
+# https://github.com/github/gitignore/tree/master/Global
