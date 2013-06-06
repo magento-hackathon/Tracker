@@ -17,7 +17,7 @@ Features Collection
 In brackets: inspired by ... (does not mean the feature is only available in the mentioned project, but at least it is well done there)
 
   - Plugin System (might come via composer for free)
-  - Multi Projects Capability [Mantis]
+  - Multi Projects Capability / Config inheritance [Mantis]
   - Time tracking [Mantis]
   - Calendar
   - Ticket workflow [Mantis]
@@ -29,7 +29,7 @@ In brackets: inspired by ... (does not mean the feature is only available in the
     - Assigning Tickets to Sprints
   - Web API Support [Redmine]
   - ScreenShot Tool [Bonfire clone], but: which runs in the Browser, based on [feedback.js](http://experiments.hertzen.com/jsfeedback/) requires WebAPI and could be an external tool
-
+  
 
 Scribbles and Mockups
 -----
