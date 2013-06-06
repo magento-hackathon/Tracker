@@ -24,5 +24,10 @@ Ideas
 
 Team (or as I like to call them in this chapter: interested people)
     avogt -> Andreas Vogt
-    
+
+
 Version 0.0.0.1
+
+Project status: Pre-alpha
+
+Nothing usable yet.
