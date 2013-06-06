@@ -71,6 +71,16 @@ Ideas and Thoughts
   - What about mobile: Apps over API like redmine or responsive from scratch?
   - see Features Collection, as we are still Brain-Storming
 
+Naming
+------
+
+I think it should be something with ORO (god of the polynesical Pantheon) and Tracking/Ticket
+
+- El T:oro (gold digger city)
+- TracktOro (Tracking and Oro)
+- Tenemu (egypt goddess of lost tracks)
+- Enki (sumerian god of intellectual work O_o)
+
 Team
 ----
 
