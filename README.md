@@ -9,18 +9,21 @@ Feel free to participate in evewry way you want. If you find some tasks interest
 Under the topic interests you can provide your special needs an skills, if you don't want to fetch a specific task this early.
 
 suggested Timeline:
-	Brain-Storming: until 16.06.
-	Hangout "pitch" to make small discussions about tasks, select tasks for first milestone, allocate task(s) on Monday, June 17th, 18:00 CEST
+- Brain-Storming: until 16.06.
+- Hangout "pitch": Monday, June 17th, 18:00 CEST
+to make small discussions about tasks, select tasks for first milestone, allocate task(s) on 
 
 Core Features Tasks
 ------
 
 *what is really necesssary in this system and should be implented first*
 
-  1 Ticket handling -> made by YOU?
-  	Functions: create, edit, delete
-  2 User handling -> made by YOU?
-	Functions: create, edit, delete
+- Ticket handling -> made by YOU?
+
+	-- Functions: create, edit, delete
+- User handling -> made by YOU?
+
+	-- Functions: create, edit, delete
 
 Features Collection
 ------
