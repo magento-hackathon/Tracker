@@ -6,14 +6,15 @@ Tracker - Ticketsystem build on Oro-Platform
 Core Features Tasks
 ------
 
-"what is really necesssary in this system and should be implented first"
+*what is really necesssary in this system and should be implented first*
 
   1 Ticket handling -> made by YOU?
     
 Features Collection
 ------
 
-"currently unpriorized"
+*currently unpriorized*
+
 In brackets: inspired by ... (does not mean the feature is only available in the mentioned project, but at least it is well done there)
 
   - Plugin System (might come via composer for free)
