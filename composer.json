@@ -1,0 +1,29 @@
+{
+    "name": "firegento/tracker",
+    "description": "Tracker on the OroPlatform",
+    "require": {
+        "php": ">=5.3.3",
+        "oro/platform": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "http://gitlab.orocrm.com/platform.git"
+        },
+        {
+            "type": "vcs",
+            "url": "http://gitlab.orocrm.com/crm.git"
+        },
+        {
+            "type": "vcs",
+            "url": "http://gitlab.orocrm.com/vendors/sonataadminbundle.git"
+        }
+    ],
+    "scripts": {
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "symfony-app-dir": "app",
+        "symfony-web-dir": "web"
+    }
+}
