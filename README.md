@@ -31,6 +31,14 @@ In brackets: inspired by ... (does not mean the feature is only available in the
   - Web API Support [Redmine]
   - ScreenShot Tool [Bonfire clone], but: which runs in the Browser, based on [feedback.js](http://experiments.hertzen.com/jsfeedback/) requires WebAPI and could be an external tool
   
+Installation
+-----
+
+* Install composer
+* Clone the git repository
+* As a developer: Call `composer.phar install --prefer-source`. This allows you to easier contribute to the upstream git repositories. (especially oro-platform)
+* If you are not a developer: You do not need the --prefer-source option
+
 
 Scribbles and Mockups
 -----
