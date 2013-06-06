@@ -44,8 +44,9 @@ Team
 ----
 
 (or as I like to call them in this chapter: interested people)
-    avogt -> Andreas Vogt
-    Alexander Menk [amenk](http://www.github.com/amenk), [@self](http://twitter.com/self) - PHP, User Experience
+
+* Andreas Vogt [avogt](http://www.github.com/avogt)
+* Alexander Menk [amenk](http://www.github.com/amenk), [@self](http://twitter.com/self) - PHP, User Experience
     
 Sponsors
 --------
