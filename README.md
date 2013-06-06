@@ -4,9 +4,11 @@ Tracker - Ticketsystem build on Oro-Platform
 **Project status: Pre-alpha** (Brain-Storming)
 
 Core Features Tasks (or what is really necesssary in this system)
+------
   1 Ticket handling -> made by YOU?
     
 Features Collection (currently unpriorized) [inspired by ...]
+------
   - Multi Projects Capability [Mantis]
   - Time tracking [Mantis]
   - Calendar
@@ -22,9 +24,13 @@ Features Collection (currently unpriorized) [inspired by ...]
   
 
 Scribbles and Mockups
+-----
+
   - to come
 
 Ideas
+-----
+
   - to come
 
 Team
