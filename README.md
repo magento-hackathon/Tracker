@@ -3,12 +3,19 @@ Tracker - Ticketsystem build on Oro-Platform
 
 **Project status: Pre-alpha** (Brain-Storming)
 
-Core Features Tasks (or what is really necesssary in this system)
+Core Features Tasks
 ------
+
+"what is really necesssary in this system and should be implented first"
+
   1 Ticket handling -> made by YOU?
     
-Features Collection (currently unpriorized) [inspired by ...]
+Features Collection
 ------
+
+"currently unpriorized"
+In brackets: inspired by ...
+
   - Multi Projects Capability [Mantis]
   - Time tracking [Mantis]
   - Calendar
@@ -20,7 +27,7 @@ Features Collection (currently unpriorized) [inspired by ...]
     - Absolute Priorization by Ordering of Tickets
     - Assigning Tickets to Sprints
   - Web API Support
-    - Bonfire clone (ScreenShot Tool which runs in the Browser, based on [feedback.js](http://experiments.hertzen.com/jsfeedback/)
+  - ScreenShot Tool [Bonfire clone], but: which runs in the Browser, based on [feedback.js](http://experiments.hertzen.com/jsfeedback/) requires WebAPI and could be an external tool
   
 
 Scribbles and Mockups
