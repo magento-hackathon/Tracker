@@ -42,14 +42,11 @@ Installation
 * If you are not a developer: You do not need the --prefer-source option
 
 
-Scribbles and Mockups
+User Interface
 -----
 
-  - see mockup-folder, feel free to do own stuff here, avogt is redmine-user so, some "mockups" are just screenshots if they are useable
-  - Redmine demo: http://demo.redmine.org/
-  - mantis demo: http://www.mantisbt.org/demo/view.php?id=3209
-  - OTRS demo: http://www.otrs.com/de/software/otrs-itsm/online-demo/
-  - Jira demo: http://www.atlassian.com/de/software/jira/demo
+Currently in Brainstorming: https://github.com/magento-hackathon/Tracker/wiki/User-interface
+
 
 Ideas and Thoughts
 ------------------
