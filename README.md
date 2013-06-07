@@ -57,12 +57,8 @@ Ideas and Thoughts
 Naming
 ------
 
-I think it should be something with ORO (god of the polynesical Pantheon) and Tracking/Ticket
+t.b.a., see: #1
 
-- El T:oro (gold digger city)
-- TracktOro (Tracking and Oro)
-- Tenemu (egypt goddess of lost tracks)
-- Enki (sumerian god of intellectual work O_o)
 
 Team
 ----
