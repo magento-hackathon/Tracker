@@ -10,7 +10,7 @@ Under the topic interests you can provide your special needs an skills, if you d
 
 suggested Timeline:
 - Brain-Storming: until 16.06.
-- Hangout "pitch": Monday, June 17th, 18:00 CEST
+- Hangout "pitch": http://www.doodle.com/fy57dzn635q44ia5
 to make small discussions about tasks, select tasks for first milestone, allocate task(s) on 
 
 Core Features Tasks
