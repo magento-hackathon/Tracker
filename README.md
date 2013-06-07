@@ -1,5 +1,8 @@
-Tracker - Ticketsystem build on Oro-Platform
+Tracker* - Ticketsystem build on Oro-Platform
 =======
+
+*Name t.b.a., see: https://github.com/magento-hackathon/Tracker/issues/1
+
 
 **Project status: Pre-alpha** (Brain-Storming)
 
@@ -54,10 +57,7 @@ Ideas and Thoughts
   - What about mobile: Apps over API like redmine or responsive from scratch?
   - see Features Collection, as we are still Brain-Storming
 
-Naming
-------
 
-t.b.a., see: #1
 
 
 Team
